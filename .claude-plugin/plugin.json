@@ -1,7 +1,7 @@
 {
   "name": "matthaeusheer-skills",
-  "version": "0.1.0",
-  "description": "Matthaeus Heer's agent skills, starting with idea2demo: one idea in, merged code, a running demo and a report out.",
+  "version": "0.1.1",
+  "description": "Matthaeus Heer's agent skills.",
   "author": {
     "name": "Matthaeus Heer"
   },
